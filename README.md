@@ -15,9 +15,9 @@ You really should only have one Goal and Start square.
 ## Installation
 ### Dependencies
 Download each link, then install them in order:
-    [Python 2.6]{http://python.org/ftp/python/2.6.5/python-2.6.5.msi}
-	[GTK+]{http://downloads.sourceforge.net/gtk-win/gtk2-runtime-2.16.6-2010-02-24-ash.exe}
-	[pygtk]{http://ftp.gnome.org/pub/GNOME/binaries/win32/pygtk/2.16/pygtk-2.16.0.win32-py2.6.exe}
+    [Python 2.6](ttp://python.org/ftp/python/2.6.5/python-2.6.5.msi)
+	[GTK+](http://downloads.sourceforge.net/gtk-win/gtk2-runtime-2.16.6-2010-02-24-ash.exe)
+	[pygtk](http://ftp.gnome.org/pub/GNOME/binaries/win32/pygtk/2.16/pygtk-2.16.0.win32-py2.6.exe)
 
 run cmd:
 python PathMaster.py
